@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogip45&label=Profile%20views&color=0e75b6&style=flat" alt="yogip45" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogip45" alt="yogip45" /></a> </p>
-
 - 🔭 I’m currently working on **ITM SIMRS**
 
 - 🌱 I’m currently learning **Codeigniter 3 and Postgresql**
